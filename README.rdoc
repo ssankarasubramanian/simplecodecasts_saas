@@ -1,5 +1,7 @@
 == README
 
+Ruby on Rails Project Application --This is a subscription based web application 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
